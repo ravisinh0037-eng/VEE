@@ -109,5 +109,8 @@
     <None Include="Slot.snk" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Content Include="Javascript\QualityControl.js" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
