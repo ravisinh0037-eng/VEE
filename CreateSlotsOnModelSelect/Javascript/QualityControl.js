@@ -66,7 +66,7 @@ GenerateQuotation.Form = (function () {
         //Clear previous error if valid
         formContext.getControl("cr4ee_euro").clearNotification("euro_error");
 
-        //Format display with €
+        //  `Format display with €
         euroAttr.setValue("€" + value);
     }
 

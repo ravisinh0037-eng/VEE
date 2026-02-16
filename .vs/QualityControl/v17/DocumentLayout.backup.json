@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B61F79-6015-4845-B804-8A9C50575EA9}|CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect.csproj|C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\createslotsonmodelselect\\csclean\\generatequotationonmodelchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B61F79-6015-4845-B804-8A9C50575EA9}|CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect.csproj|solutionrelative:createslotsonmodelselect\\csclean\\generatequotationonmodelchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B61F79-6015-4845-B804-8A9C50575EA9}|CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect.csproj|c:\\projects\\cs clean\\cs_plugin\\createslotsonmodelselect\\createslotsonmodelselect\\createslotsonmodelselect\\javascript\\qualitycontrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{84B61F79-6015-4845-B804-8A9C50575EA9}|CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect.csproj|solutionrelative:createslotsonmodelselect\\javascript\\qualitycontrol.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B61F79-6015-4845-B804-8A9C50575EA9}|CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect.csproj|C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\createslotsonmodelselect\\csclean\\createslotsonmodelselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B61F79-6015-4845-B804-8A9C50575EA9}|CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect.csproj|solutionrelative:createslotsonmodelselect\\csclean\\createslotsonmodelselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QualityControl.js",
+              "DocumentMoniker": "C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\Javascript\\QualityControl.js",
+              "RelativeDocumentMoniker": "CreateSlotsOnModelSelect\\Javascript\\QualityControl.js",
+              "ToolTip": "C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\Javascript\\QualityControl.js",
+              "RelativeToolTip": "CreateSlotsOnModelSelect\\Javascript\\QualityControl.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-15T07:34:04.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateQuotationOnModelChange.cs",
+              "DocumentMoniker": "C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CsClean\\GenerateQuotationOnModelChange.cs",
+              "RelativeDocumentMoniker": "CreateSlotsOnModelSelect\\CsClean\\GenerateQuotationOnModelChange.cs",
+              "ToolTip": "C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CsClean\\GenerateQuotationOnModelChange.cs",
+              "RelativeToolTip": "CreateSlotsOnModelSelect\\CsClean\\GenerateQuotationOnModelChange.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAiwJYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:41:12.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSlotsOnModelSelect.cs",
+              "DocumentMoniker": "C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CsClean\\CreateSlotsOnModelSelect.cs",
+              "RelativeDocumentMoniker": "CreateSlotsOnModelSelect\\CsClean\\CreateSlotsOnModelSelect.cs",
+              "ToolTip": "C:\\Projects\\CS CLEAN\\Cs_Plugin\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CreateSlotsOnModelSelect\\CsClean\\CreateSlotsOnModelSelect.cs",
+              "RelativeToolTip": "CreateSlotsOnModelSelect\\CsClean\\CreateSlotsOnModelSelect.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwF4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:14:38.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
